@@ -1,5 +1,5 @@
 import { Children, useState } from 'react'
-import { createBrowserRouter , Route , RouterProvider } from "react-router-dom";
+import { createBrowserRouter, createHashRouter , Route , RouterProvider } from "react-router-dom";
 import './App.css'
 
 import Layout from './Components/Layout/Layout';
@@ -12,7 +12,7 @@ import About from './Components/About/About';
 
 function App() {
 
-  let router = createBrowserRouter([
+  let router = createHashRouter([
     {path:'/',element:<Layout/>, children:[
 
       {path:'/', element:<Home/>},
