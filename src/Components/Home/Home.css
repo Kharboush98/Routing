@@ -1,0 +1,39 @@
+.image{
+    width: 250px;
+    margin-bottom: 48px;
+}
+
+.image img{
+    display: block;
+    max-width: 100%;
+}
+
+.my{
+    height: 750px;
+}
+
+h2{
+    font-weight: 700;
+    color: white;
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
+.other{
+    color: white;
+    font-weight: 400;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+
+.line{
+    width: 100px;
+    height: 4px;
+    background-color: white;
+}
+
+svg{
+    fill: white;
+    width: 18px;
+    margin-inline: 8px;
+}

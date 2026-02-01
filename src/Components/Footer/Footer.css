@@ -1,0 +1,35 @@
+.footer{
+    background-color: #2C3E50;
+    padding: 40px;
+
+    h3{
+        color: white;
+        font-size: 28px;
+        font-weight: 500;
+    }
+
+    p{
+        color: white;
+        font-size: 16px;
+        font-weight: 400;
+    }
+}
+
+.footer .fcard{
+    text-align: center;
+    min-height: 150px;
+}
+
+.copyright{
+    background-color: #0B1015;
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding: 16px;
+}
+
+.copyright p{
+    color: #f0f8ff;
+    font-weight: 400;
+    font-size: 16px;
+}

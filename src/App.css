@@ -1,0 +1,9 @@
+.MainBody{
+    min-height: 100vh;
+    background-color: #1ABC9C;
+}
+
+.altBody{
+    min-height: 100vh;
+    background-color: white;
+}

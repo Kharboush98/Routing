@@ -1,0 +1,21 @@
+.navbar{
+    background-color: #2C3E50;
+}
+
+.navbar-brand.navbar-txt-bg{
+    font-weight: 700;
+    color: white;
+    font-size: 32px;
+    text-transform: uppercase;
+}
+
+.nav-link.navbar-txt{
+    color: white;
+    font-weight: 700;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+
+.nav-link{
+    color: aquamarine;
+}

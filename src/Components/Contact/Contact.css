@@ -1,0 +1,36 @@
+.Underline .line{
+    background-color: #2C3E50;
+}
+
+svg{
+    fill: #2C3E50;
+    width: 18px;
+    margin-inline: 8px;
+}
+
+.altBody h2{
+    font-size: 40px;
+    font-weight: 700;
+    color: #2C3E50;
+}
+
+label{
+    color: black;
+}
+
+.formContainer{
+    width: 750px;
+}
+
+.formContainer .form{
+    width: 100%;
+}
+
+
+button{
+    color: white;
+    padding: 6px 12px;
+    margin-top: 24px;
+    background-color: #1ABC9C;
+    border: none; 
+}
