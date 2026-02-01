@@ -1,11 +1,19 @@
-.Underline .line{
+.altBody .Underline .line{
+    width: 100px;
+    height: 4px;
     background-color: #2C3E50;
 }
 
-svg{
+.altBody svg{
     fill: #2C3E50;
     width: 18px;
     margin-inline: 8px;
+}
+
+.altBody p {
+    font-size: 16px;
+    font-weight: 400;
+    color: #2C3E50;
 }
 
 .altBody h2{
@@ -14,7 +22,7 @@ svg{
     color: #2C3E50;
 }
 
-label{
+.altBody label{
     color: black;
 }
 

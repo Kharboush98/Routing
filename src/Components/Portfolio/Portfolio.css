@@ -3,3 +3,16 @@
     object-fit: cover;  
 }
 
+.MainBody h2{
+    font-weight: 700;
+    color: white;
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
+
+.MainBody svg{
+    fill: white;
+    width: 18px;
+    margin-inline: 8px;
+}
