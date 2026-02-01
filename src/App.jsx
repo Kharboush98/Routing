@@ -12,10 +12,10 @@ import About from './Components/About/About';
 
 function App() {
 
-  let router = createHashRouter([
+  let router = createBrowserRouter([
     {path:'/',element:<Layout/>, children:[
 
-      {path:'/', element:<Home/>},
+      {path:true, element:<Home/>},
       {path:'about',element:<About/>},
       {path:'portfolio',element:<Portfolio/>},
       {path:'contact',element:<Contact/>},
