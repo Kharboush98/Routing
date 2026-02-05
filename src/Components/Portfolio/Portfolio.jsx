@@ -22,7 +22,7 @@ export default function Portfolio() {
             </div>
           </div>
 
-          <div className="row pt-5 gy-5">
+          <div className="row py-5 gy-5">
 
             <div className="col-md-4">
               <img src={img1} alt="" />
