@@ -3,7 +3,7 @@ import img1 from '../../assets/imgs/port1.png'
 import img2 from '../../assets/imgs/port2.png'
 import img3 from '../../assets/imgs/port3.png'
 
-import './portfolio.css'
+import './Portfolio.css'
 
 export default function Portfolio() {
   return (
